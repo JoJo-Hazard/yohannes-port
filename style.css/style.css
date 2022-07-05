@@ -1,0 +1,18 @@
+body{
+    background-color:grey;
+}
+.logo{
+    font-family: 'Times New Roman', Times, serif;
+    color:rgb(145, 133, 133);
+    text-transform: uppercase;
+}
+li {
+
+    display:inline-flex;
+    font-family: fantasy;
+    text-transform: uppercase;
+    padding: 34px;
+    color: brown;
+    text-decoration-line: none;
+    background-color: rgb(42, 147, 165);
+}
